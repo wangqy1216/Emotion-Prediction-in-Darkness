@@ -1,4 +1,4 @@
-# Emotion Prediction in Ths Darkness
+# Emotion Prediction in the Darkness
 
 This is the thesis project about emotion prediction in the darkness.
 
