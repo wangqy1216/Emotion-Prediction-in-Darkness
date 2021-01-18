@@ -2,7 +2,7 @@
 
 This is the thesis project about emotion prediction in the darkness. This github repo contains three ipynb files, which can be opened in Google Colab. In every file, you can find detailed comments. If you have questions, please contract me by : <wangqy1216@gmail.com>. 
 
-**[Thesis](https://drive.google.com/file/d/1uzN9n2T7Dl4Gmr7JGXVuFTe7w55UjV0g/view?usp=sharing)
+**[Thesis](https://drive.google.com/file/d/1uzN9n2T7Dl4Gmr7JGXVuFTe7w55UjV0g/view?usp=sharing)**
 
 ## EnlightenCycleGAN.ipynb
 This file is to train a CycleGAN-based Model for dark image inhancement. 
@@ -10,6 +10,8 @@ This file is to train a CycleGAN-based Model for dark image inhancement.
 The paired dataset is collected by random selection from some popular dark image datasets. **[EnlightenCycleGAN](https://drive.google.com/file/d/1n7-mk_zrs2RmIrLcBNY4kOV1L5dmavu1/view?usp=sharing)**
 
 Please open the ipynb file, then download the dataset and train the model.
+
+**[Pre-trained Model](https://drive.google.com/file/d/1P-zTt-ZP6xz6HH1wx3e4EvUiFvy8AQla/view?usp=sharing)**
 
 
 ## Train.ipynb
