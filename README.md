@@ -17,7 +17,9 @@ This file compares three different feature extraction methods : Feature Descript
 Due to the variant of face shapes and distance from camera to face, normalization is necessary. We used the distance from the nose lip to the eyebrows' center as the normalization distance.
 
 
-## 
+## Application.ipynb
+This file is a simple application file using the pre-trained models. This file takes the real time video as the input. To test this model, please turn down the lights, sit in the front of the camera and run the file.
+
 
 ## Result
 [![DARK AND ENHANCED](http://img.youtube.com/vi/hr2OO0q3rkU/0.jpg)](http://www.youtube.com/watch?v=hr2OO0q3rkU)
